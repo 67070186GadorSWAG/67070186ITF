@@ -1,0 +1,30 @@
+h1 {
+    font-size: xx-large;
+    background-color: aqua;
+}
+.john-container{
+    inline-size: 20px 20px 20px;
+    color:aliceblue;
+    display: grid;
+    background-color: black;
+}
+.john{
+    font-style: italic;
+}
+.navbar{
+    color: aqua;
+    margin: 20px;
+    background-color: rgb(233, 132, 17);
+    font-size: xx-large;
+    column-gap: 50px;
+    flex-direction: row;
+    display: flex;
+}
+.navitem{
+    font: oblique;
+}
+.batman{
+    background-color: yellow;
+    text-align: center;
+    font-size: 30px;
+}
